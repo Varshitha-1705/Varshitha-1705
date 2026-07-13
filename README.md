@@ -35,11 +35,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://example.com/portfolio" target="_blank">
+<a href="https://portfolio-website-eight-phi-74.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://example.com/resume.pdf" target="_blank">
+<a href="https://drive.google.com/file/d/1rHRe-lzKQZxKqCFgJ3EUPc0l7Qb7uVbv/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
